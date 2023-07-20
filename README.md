@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- いろいろ取り組むけど完成させられない系プログラマー(?)です
+- 主にC#を使用、UnityでいろいろやったりWindowsアプリの作成とかやってます(完成してない)
+- Contact:[Twitter@jpnatu_v](https://twitter.com/JPnatu_V)(最近は見てないです),Misskey([io](https://misskey.io/@jpnatu))もしくは[個人鯖](https://mi.jpnatu.net/@jpnatu)で
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpnatu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jpnatu/jpnatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
